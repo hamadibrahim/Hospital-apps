@@ -1,1 +1,1 @@
-# Hospital-apps
+# hospital-management-services
